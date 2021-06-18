@@ -1,0 +1,6 @@
+model,max_resolution,low_resolution,zoom_width,storage
+Canon PowerShot A460,2592,2048,38,16
+Kodak C763,3072,2592,35,32
+Nikon Coolpix P500,3648,2560,36,16
+Samsung S850,3264,2558,39,16
+Sony DSC,3228,2624,31,32
